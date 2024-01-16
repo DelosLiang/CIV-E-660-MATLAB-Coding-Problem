@@ -1,4 +1,4 @@
-## Assignment 3 MATLAB code
+## Problem 2 MATLAB code
 
 ### main
 
