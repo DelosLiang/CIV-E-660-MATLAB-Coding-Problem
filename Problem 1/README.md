@@ -1,4 +1,4 @@
-## Assignment 1 MATLAB code
+## Problem 1 MATLAB code
 
 ### Pattern 3
 
